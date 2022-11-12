@@ -1,2 +1,2 @@
 # Matrix
-This is a matrix processing library implemented by C.
+This is a matrix processing library implemented by C that offers various matrix operations such as transposition, matrix-matrix multiplication, scalar product and so on. There is a file called "matrix.h" that contains the definitions and detailed description of the different functions offered by the library API. There's also a test suite that you can check out by entering "gcc basic-test-suite.c matrix.c unity.c -o test-suite" on your terminal then enter "./test". I hope you like this project, and if you do enjoy it, please follow me on GitHub and I would really appreciate. 
